@@ -1,0 +1,10 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+psycopg2
+pycparser
+flask-jwt-extended
+python-dotenv
+passlib
+SQLAlchemy
